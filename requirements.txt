@@ -1,0 +1,5 @@
+biopython>=1.80
+pandas>=2.0.0
+matplotlib>=3.5.0
+pyrodigal>=3.0.0
+pyhmmer>=0.10.0
